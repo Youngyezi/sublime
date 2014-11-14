@@ -45,6 +45,6 @@ sublime text 2 配置
 
 ---- color scheme
 
-    </code>
+
         Obsidian
-    </code>
+
