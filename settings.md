@@ -68,3 +68,10 @@ Obsidian
 
 ```
 
+### plugs
+> * Emmet               代码自动补全
+> * BracketHighlighter  高亮显示匹配的括号、引号和标签
+> * SideBarEnhancements 侧边栏增强
+> * ColorPicker         调色盘
+> * ConvertToUTF8       编码装换
+> * DocBlockr           代码注释
