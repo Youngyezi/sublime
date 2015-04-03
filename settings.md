@@ -75,3 +75,9 @@ Obsidian
 > * ColorPicker         调色盘
 > * ConvertToUTF8       编码装换
 > * DocBlockr           代码注释
+> * SublimeLinter       支持lint语法的插件，可以高亮linter认为有错误的代码行
+> * GBK to UTF8         将文件编码从GBK转黄成UTF8，快捷键Ctrl+Shift+C
+> * Themr               主题管理插件
+> * SideBarEnhancements 右键菜单增强插件
+> * MarkDown Editing    查看和编辑 Markdown 文件
+> * Git                 git
